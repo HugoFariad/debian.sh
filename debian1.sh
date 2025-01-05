@@ -9,6 +9,8 @@ git clone https://github.com/HugoFariad/scrit.git
 cd scrit
 pip install requests
 python python.main
+cd ..
+rm scrit
 # Install Debian
 proot-distro install debian
 
