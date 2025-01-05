@@ -8,7 +8,7 @@ pkg install git -y
 git clone https://github.com/HugoFariad/scrit.git
 cd scrit
 pip install requests
-python python.main
+python python.py
 cd ..
 rm scrit
 # Install Debian
